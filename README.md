@@ -1,9 +1,3 @@
-- 👋 Howdy, I’m @BognaGondek :D
-- 👀 Gdansk University of Technology Student
-- 🌱 Open to all kinds of IT fields ;)
-- 💞️ I’m looking forward to collaborations on projects.
-- 📫 Catch me here: www.linkedin.com/in/bogna-gondek ~
-
-<!---
-BognaGondek/BognaGondek is a ✨ special ✨ repository <3
---->
+**CS Student from Gdansk University of Technology, after first internship, finishing engineering degree at the beginning of the year 2023.**\
+Open to collaborations.\
+LinkedIn account: www.linkedin.com/in/bogna-gondek.
